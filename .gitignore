@@ -38,9 +38,6 @@ dist/
 .angular/
 .cache/
 
-# Docker
-docker-compose.yml
-
 ### Logs ###
 logs/
 *.log
